@@ -91,6 +91,4 @@
       return bytes;
     }
   };
-
-  module.exports = crypt;
 })();
